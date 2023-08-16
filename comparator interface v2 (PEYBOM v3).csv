@@ -1,0 +1,38 @@
+Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number,Part,Value,Qty,Name
+,,,,C603,100n,1,C8
+,,,,C603,10n,2,C9 C10
+,,,,C603,0.1u,3,C16 C19 C20
+,,,,C603,10u,10,C17 C23 C28 C29 C30 C31 C32 C33 C34 C35
+,,,,C603,0.01u,3,C18 C21 C24
+,,,,C603,0.22u,1,C22
+,,,,C603,10p,2,C26 C27
+,,,,44PinConn,,1,CONN1
+,BHR-14-VUA,,,14pin_conn_vert,INST,1,CONN2
+,BHR-12-VUA,,,12pin_conn_vert,INST,1,CONN3
+Fairchild,,Digikey,,MM5Z15V,5.6V TVS,2,D7 D8
+,,,,Deutsch-12,,2,D12-A D12-B
+Bel Fuse,SMP1.25,,,smp 1.25,,1,F3
+Littelfuse Inc.,PICOASMDC010S-2,Digikey,507-1516-2-ND,Fuse805,,4,F4 F5 F6 F7
+Belfuse,0ZCG0150BF2C,Digikey,507-1773-2-ND,0ZCC,,1,F8
+,,,,ADM3055EBRIZ-RL,,1,IC1
+,,,,MCP2518FDT-E_SL,,1,IC4
+,,,,MCP6L04T-E_ST,,1,IC5
+,,,,R603,909,1,R1
+,,,,R603,40.7,1,R2
+,,,,R603,1k,2,R3 R6
+,,,,R603,66,1,R4
+,,,,R603,2.5,9,R5 R21 R22 R23 R24 R25 R28 R29 R30
+,,,,R603,56.2,2,R7 R8
+,,,,R603,191,1,R9
+,,,,R603,30k,2,R13 R14
+,,,,R603,0,6,R16 R26 R27 R31 R33 R34
+Murata Electronics,BLM18BD182SN1D,Digikey,490-1026-2-ND,R603,1.8k,2,R18 R19
+,,,,R603,10M,1,R35
+,,,,LM2901,,1,U1
+TXC,7V-12.000MAAE-T,Digikey,887-1458-6-ND,7V-CLK,,1,U3
+End of Regular BOM
+DNI List:,CONN3
+Board info:
+Board size in mils: 3313 x 4006 and board size in mm: 84.15 x 101.75
+Parts Counts-> Total_Parts: 68 SM: 63 TH: 5 Unique_Parts: 31 SM: 27 TH: 4
+Counts-> SM-pads: 182 TH-pins: 94
